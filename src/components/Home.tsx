@@ -51,20 +51,20 @@ export default function Home() {
 
   const slides = [
     {
-      image: './public/image5.jpg',
+      image: '/image5.jpg',
       alt: 'Gestion de flotte de camions',
     },
     {
-      image: './public/image6.jpg',
+      image: '/image6.jpg',
       alt: 'Suivi GPS de véhicules',
     },
 
     {
-      image: '/public/image8.png',
+      image: '/image8.png',
       alt: 'Surveillance de véhicules',
     },
     {
-      image: '/public/image7.png',
+      image: '/image7.png',
       alt: 'Analyse de flotte',
     },
 
