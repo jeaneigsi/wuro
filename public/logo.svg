@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 10C26.0751 10 31 14.9249 31 21C31 27.0751 26.0751 32 20 32C13.9249 32 9 27.0751 9 21C9 14.9249 13.9249 10 20 10Z" fill="#2563EB"/>
+  <path d="M20 14C23.866 14 27 17.134 27 21C27 24.866 23.866 28 20 28C16.134 28 13 24.866 13 21C13 17.134 16.134 14 20 14Z" fill="white"/>
+  <text x="40" y="25" font-family="Arial" font-size="16" font-weight="bold" fill="#1F2937">WURO</text>
+</svg>
