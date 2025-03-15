@@ -32,7 +32,7 @@ const services = [
   },
   {
     id: "gps-tracking",
-    image: "https://images.unsplash.com/photo-1581362508254-7c9b84a5410c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image:"https://plus.unsplash.com/premium_photo-1681487798758-04787a334670?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "Suivi GPS",
     icon: <FaMapMarkedAlt className="text-blue-600 text-3xl mb-4" />,
     description: "Suivez vos véhicules en temps réel avec notre technologie GPS avancée, offrant des mises à jour précises et instantanées.",
@@ -45,7 +45,7 @@ const services = [
   },
   {
     id: "fuel-management",
-    image: "https://images.unsplash.com/photo-1545459720-aac8509eb149?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://plus.unsplash.com/premium_photo-1661586006046-081bdd8c7c71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fGNhcmJ1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
     title: "Gestion du carburant",
     icon: <FaGasPump className="text-blue-600 text-3xl mb-4" />,
     description: "Surveillez et optimisez la consommation de carburant pour réduire les coûts et améliorer l'efficacité de votre flotte.",
@@ -58,7 +58,7 @@ const services = [
   },
   {
     id: "maintenance",
-    image: "https://images.unsplash.com/photo-1530046339915-78e95787c8ed?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://images.unsplash.com/photo-1676311396794-f14881e9daaa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "Maintenance préventive",
     icon: <FaTools className="text-blue-600 text-3xl mb-4" />,
     description: "Planifiez et suivez la maintenance de vos véhicules pour prévenir les pannes et prolonger leur durée de vie.",

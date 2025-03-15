@@ -206,7 +206,7 @@ export default function Contact() {
             to="#contact-form" 
             variant="primary" 
             size="lg" 
-            className="bg-white text-blue-600 hover:bg-gray-100"
+            className="bg-white text-black hover:bg-gray-100"
             icon
           >
             Nous contacter maintenant
@@ -442,7 +442,7 @@ export default function Contact() {
             <Button 
               to="/pricing" 
               variant="primary" 
-              className="bg-white text-blue-600 hover:bg-gray-100"
+              className="bg-white text-black hover:bg-gray-100"
               icon
             >
               Voir nos tarifs
